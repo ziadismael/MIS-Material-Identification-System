@@ -88,13 +88,13 @@ python deploy.py
 ```
 
 ## 👥 Team Members
-[Ziad Ismael]
+* **Ziad Ismael**
 
-[Omar Sameh]
+* **Omar Sameh**
 
-[Mohamed Khamis]
+* **Mohamed Khamis**
 
-[Mohannad ElBendary]
+* **Mohannad ElBendary**
 
 ## 📝 Acknowledgment
 This project is part of the Machine Learning Course at the Faculty of Computing and Artificial Intelligence, Cairo University (FCAI-CU).
