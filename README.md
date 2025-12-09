@@ -87,5 +87,14 @@ python train.py --model svm --features hog
 python deploy.py
 ```
 
+## 👥 Team Members
+[Ziad Ismael]
+
+[Omar Sameh]
+
+[Mohamed Khamis]
+
+[Mohannad ElBendary]
+
 ## 📝 Acknowledgment
 This project is part of the Machine Learning Course at the Faculty of Computing and Artificial Intelligence, Cairo University (FCAI-CU).
